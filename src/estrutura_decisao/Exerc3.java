@@ -2,7 +2,7 @@ package estrutura_decisao;
 
 import java.util.Scanner;
 
-public class Exerc3Lista1 {
+public class Exerc3 {
 
 	public static void main(String[] args) {
 
